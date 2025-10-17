@@ -30,7 +30,7 @@
 ## 🔹 Projects
 - **[Diff-HEF](#)** – Differentiable Bayes filter for uncertainty estimation  
 - **[SE(2) FFT](#)** – Custom Fourier transform implementation on SE(2) with PyTorch  
-- **[LLMLearning](#)** – Implemented **RAG**, **LoRA fine-tuning**, and explored system-level design for LLM-based applications  
+- **[LLM_Finance_Predictor](#)** – Implemented **RAG**, **LoRA fine-tuning**, and explored system-level design for LLM-based applications  
 - **[AI Systems Project](#)** – Research & implementation on **Vision-Language Models (VLMs)**, **Vision-Language-Action Models (VLAs)**, and **Model Predictive Control (MPC)**  
 - **[MoodBoard AI](#)** – Hackathon project: visual diary + vibe tracker  
 
